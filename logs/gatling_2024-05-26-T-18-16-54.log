@@ -1,0 +1,17 @@
+18:18:56.483 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 97: Request timeout to videogamedb.uk/46.101.16.10:443 after 60000 ms
+18:18:56.496 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO Request timeout to videogamedb.uk/46.101.16.10:443 after 60000 ms
+=========================
+Session:
+Session(My First Test Scenario,97,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@404ebd04, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@1c07e5a9, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$555/0x000000080109e0d8@2ced2699,io.netty.channel.nio.NioEventLoop@47f08b81)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<

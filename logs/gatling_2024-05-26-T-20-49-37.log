@@ -1,0 +1,408 @@
+20:50:01.705 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 512: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+20:50:01.713 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,512,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@1e693b98, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@14d13da, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$556/0x000000080109e438@2c53a201,io.netty.channel.nio.NioEventLoop@4cd1c1dc)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+20:50:12.509 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 1051: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+20:50:12.510 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,1051,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@d246d78, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@49d7b93d, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$556/0x000000080109e438@2c53a201,io.netty.channel.nio.NioEventLoop@1bc425e7)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+20:50:18.903 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 1371: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+20:50:18.904 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,1371,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@7b1ac5a7, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@77dd3c4c, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$556/0x000000080109e438@2c53a201,io.netty.channel.nio.NioEventLoop@1bc425e7)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+20:50:40.367 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 2985: j.i.IOException: Premature close
+20:50:40.368 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 2989: j.i.IOException: Premature close
+20:50:40.368 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 2988: j.n.c.ClosedChannelException
+20:50:40.368 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 2987: j.i.IOException: Premature close
+20:50:40.367 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 2992: j.n.c.ClosedChannelException
+20:50:40.368 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.i.IOException: Premature close
+=========================
+Session:
+Session(My First Test Scenario,2987,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@1579614c, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@2a2c335e, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$556/0x000000080109e438@2c53a201,io.netty.channel.nio.NioEventLoop@1bc425e7)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+20:50:40.367 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 2982: j.i.IOException: Premature close
+20:50:40.367 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 2986: j.i.IOException: Premature close
+20:50:40.367 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 2993: j.n.c.ClosedChannelException
+20:50:40.369 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.i.IOException: Premature close
+=========================
+Session:
+Session(My First Test Scenario,2982,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@3b80c660, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@67617c79, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$556/0x000000080109e438@2c53a201,io.netty.channel.nio.NioEventLoop@426e505c)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+20:50:40.368 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 2984: j.i.IOException: Premature close
+20:50:40.368 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 2981: j.i.IOException: Premature close
+20:50:40.370 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.i.IOException: Premature close
+=========================
+Session:
+Session(My First Test Scenario,2984,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@10503809, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@64916b9, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$556/0x000000080109e438@2c53a201,io.netty.channel.nio.NioEventLoop@6f8e0cee)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+20:50:40.367 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 2995: j.n.c.ClosedChannelException
+20:50:40.367 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 2994: j.n.c.ClosedChannelException
+20:50:40.367 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 2983: j.i.IOException: Premature close
+20:50:40.368 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 2990: j.n.c.ClosedChannelException
+20:50:40.367 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 2991: j.n.c.ClosedChannelException
+20:50:40.368 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.i.IOException: Premature close
+=========================
+Session:
+Session(My First Test Scenario,2989,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@7b842496, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@3c9c1f34, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$556/0x000000080109e438@2c53a201,io.netty.channel.nio.NioEventLoop@322803db)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+20:50:40.368 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.i.IOException: Premature close
+=========================
+Session:
+Session(My First Test Scenario,2985,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@7f35d5f0, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@10e1788f, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$556/0x000000080109e438@2c53a201,io.netty.channel.nio.NioEventLoop@614aeccc)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+20:50:40.368 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.n.c.ClosedChannelException
+=========================
+Session:
+Session(My First Test Scenario,2988,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@2a17af80, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@3f600b31, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$556/0x000000080109e438@2c53a201,io.netty.channel.nio.NioEventLoop@4b2a30d)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+20:50:40.368 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.n.c.ClosedChannelException
+=========================
+Session:
+Session(My First Test Scenario,2992,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@3b34fb3a, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@67d4d22c, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$556/0x000000080109e438@2c53a201,io.netty.channel.nio.NioEventLoop@4cd1c1dc)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+20:50:40.369 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.i.IOException: Premature close
+=========================
+Session:
+Session(My First Test Scenario,2986,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@3f5d2e36, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@3854550d, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$556/0x000000080109e438@2c53a201,io.netty.channel.nio.NioEventLoop@5116ac09)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+20:50:40.369 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.n.c.ClosedChannelException
+=========================
+Session:
+Session(My First Test Scenario,2993,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@5f06be5, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@5655456e, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$556/0x000000080109e438@2c53a201,io.netty.channel.nio.NioEventLoop@47f08b81)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+20:50:40.370 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.i.IOException: Premature close
+=========================
+Session:
+Session(My First Test Scenario,2981,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@6332878a, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@152bddd, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$556/0x000000080109e438@2c53a201,io.netty.channel.nio.NioEventLoop@267517e4)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+20:50:40.371 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.n.c.ClosedChannelException
+=========================
+Session:
+Session(My First Test Scenario,2995,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@78fcfbc7, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@593662ff, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$556/0x000000080109e438@2c53a201,io.netty.channel.nio.NioEventLoop@2787de58)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+20:50:40.372 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.n.c.ClosedChannelException
+=========================
+Session:
+Session(My First Test Scenario,2994,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@272be10, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@24fd1bc1, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$556/0x000000080109e438@2c53a201,io.netty.channel.nio.NioEventLoop@b9dfc5a)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+20:50:40.372 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.i.IOException: Premature close
+=========================
+Session:
+Session(My First Test Scenario,2983,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@3755c23f, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@4e145ebd, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$556/0x000000080109e438@2c53a201,io.netty.channel.nio.NioEventLoop@5b022357)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+20:50:40.372 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.n.c.ClosedChannelException
+=========================
+Session:
+Session(My First Test Scenario,2990,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@b091e28, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@4d99c44, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$556/0x000000080109e438@2c53a201,io.netty.channel.nio.NioEventLoop@56ba8773)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+20:50:40.372 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.n.c.ClosedChannelException
+=========================
+Session:
+Session(My First Test Scenario,2991,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@6425ac00, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@6a99cdb5, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$556/0x000000080109e438@2c53a201,io.netty.channel.nio.NioEventLoop@6ceb7b5e)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+20:50:40.392 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 2997: j.n.c.ClosedChannelException
+20:50:40.392 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 3001: j.n.c.ClosedChannelException
+20:50:40.392 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 2998: j.n.c.ClosedChannelException
+20:50:40.393 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 3000: j.n.c.ClosedChannelException
+20:50:40.392 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 2999: j.n.c.ClosedChannelException
+20:50:40.392 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 3002: j.n.c.ClosedChannelException
+20:50:40.394 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.n.c.ClosedChannelException
+=========================
+Session:
+Session(My First Test Scenario,2999,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@12455efd, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@4d137730, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$556/0x000000080109e438@2c53a201,io.netty.channel.nio.NioEventLoop@5b022357)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+20:50:40.393 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.n.c.ClosedChannelException
+=========================
+Session:
+Session(My First Test Scenario,3001,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@18751586, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@3e840717, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$556/0x000000080109e438@2c53a201,io.netty.channel.nio.NioEventLoop@614aeccc)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+20:50:40.393 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.n.c.ClosedChannelException
+=========================
+Session:
+Session(My First Test Scenario,2997,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@32d759f6, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@40c937a6, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$556/0x000000080109e438@2c53a201,io.netty.channel.nio.NioEventLoop@267517e4)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+20:50:40.393 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.n.c.ClosedChannelException
+=========================
+Session:
+Session(My First Test Scenario,2998,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@3074e21c, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@7412bcf0, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$556/0x000000080109e438@2c53a201,io.netty.channel.nio.NioEventLoop@426e505c)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+20:50:40.393 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.n.c.ClosedChannelException
+=========================
+Session:
+Session(My First Test Scenario,3000,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@7f25b98f, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@7bb482ee, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$556/0x000000080109e438@2c53a201,io.netty.channel.nio.NioEventLoop@6f8e0cee)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+20:50:40.394 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.n.c.ClosedChannelException
+=========================
+Session:
+Session(My First Test Scenario,3002,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@468a4ff2, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@6bbfcfbc, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$556/0x000000080109e438@2c53a201,io.netty.channel.nio.NioEventLoop@5116ac09)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<

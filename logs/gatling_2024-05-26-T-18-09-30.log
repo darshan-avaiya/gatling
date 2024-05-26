@@ -1,0 +1,34 @@
+18:09:50.942 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 2: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+18:09:50.955 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,2,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@619a879f, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@137a3344, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$549/0x0000000801090b28@5a0b1e84,io.netty.channel.nio.NioEventLoop@b9dfc5a)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+18:10:38.599 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 10: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+18:10:38.603 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,10,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@553ac582, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@10384141, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$549/0x0000000801090b28@5a0b1e84,io.netty.channel.nio.NioEventLoop@5116ac09)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<

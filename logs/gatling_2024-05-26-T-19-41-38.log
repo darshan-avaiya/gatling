@@ -1,0 +1,1445 @@
+19:41:54.534 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 246: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.549 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,246,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@5b5cc5db, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@4a08563c, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@6d4a65c6)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.575 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 101: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.576 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,101,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@7d02fc09, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@51255044, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@5965844d)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.591 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 962: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.591 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 662: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.592 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,962,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@5ed95097, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@2ce27496, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@3a91d146)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.592 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,662,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@36706976, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@19f7067e, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@6d4a65c6)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.621 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 403: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.622 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 868: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.622 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 983: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.622 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 277: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.622 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,403,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@4eb4dced, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@56b88784, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@4784013e)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.622 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,868,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@45d670a9, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@5bdf2008, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@6f952d6c)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.623 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,983,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@280ed4ea, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@1a86a6bf, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@aa004a0)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.623 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,277,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@cc4c162, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@1c0d4e, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@5965844d)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.624 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 707: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.625 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,707,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@1de7656c, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@6757e1cd, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@4784013e)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.633 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 677: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.633 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,677,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@6a945bf0, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@11488196, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@5965844d)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.639 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 507: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.640 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,507,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@edad8cf, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@356e642c, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@dffa30b)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.650 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 891: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.651 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,891,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@7f990cc8, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@2a360902, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@dffa30b)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.655 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 708: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.656 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,708,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@431038ad, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@3df31374, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@6f952d6c)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.658 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 676: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.659 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,676,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@4bd67f5b, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@692bc949, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@6f952d6c)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.660 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 692: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.660 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,692,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@76a50513, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@41f3eb0f, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@6f952d6c)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.666 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 727: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.667 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,727,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@6475891e, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@3a82a8fe, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@aa004a0)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.668 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 391: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.668 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,391,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@159e424f, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@54a5bdd6, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@aa004a0)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.669 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 375: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.671 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 757: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.671 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,375,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@1c50f325, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@33ba7d09, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@aa004a0)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.671 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 508: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.672 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,757,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@3b2d9d0c, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@5bbb815a, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@5965844d)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.673 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 869: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.672 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,508,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@3fc43b14, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@7b0729da, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@4d8126f)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.673 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,869,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@13381a06, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@46297dc6, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@5965844d)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.674 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 172: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.673 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 455: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.675 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 581: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.675 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,172,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@6fc297c8, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@299ac07e, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@4d8126f)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.675 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,455,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@5451dd0b, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@2d63815a, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@aa004a0)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.677 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 700: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.675 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,581,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@113b5df2, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@160dbfde, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@5965844d)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.677 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 887: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.686 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 867: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.689 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,700,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@371852c2, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@7513e402, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@4d8126f)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.690 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,867,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@fec0a7e, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@1d7a38a0, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@4784013e)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.691 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 988: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.690 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,887,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@36b18608, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@5683f7e2, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@aa004a0)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.690 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 549: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.691 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,988,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@e1441bf, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@71f2e933, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@4d8126f)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.692 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 39: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.695 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,549,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@45b66f33, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@48fcfd0e, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@5965844d)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.695 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,39,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@c60d1bc, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@3db8f83b, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@aa004a0)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.696 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 711: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.697 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,711,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@703b842, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@4ef663a7, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@aa004a0)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:54.698 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 503: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:54.698 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,503,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@4491a6f4, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@3e12f77d, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@aa004a0)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:55.355 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 169: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:55.356 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,169,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@4e3efdf6, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@1b217ea2, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@392a04e7)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:55.386 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 385: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:55.386 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 45: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:55.386 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 121: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:55.387 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 95: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:55.389 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,121,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@67414e1f, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@7b265d3c, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@392a04e7)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:55.388 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,385,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@a99547c, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@7b4dd396, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@d176a31)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:55.389 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,45,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@34a4cc57, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@42378e6, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@6d3c232f)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:55.389 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,95,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@bdfae35, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@5a775739, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@1bcf67e8)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:55.390 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 345: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:55.393 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 381: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:55.394 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,345,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@42cedee3, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@520a7c76, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@392a04e7)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:55.394 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,381,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@11ffc75f, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@564f80f7, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@6d3c232f)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:55.395 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 159: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:55.404 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,159,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@adb556c, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@6a751591, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@1bcf67e8)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:55.405 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 505: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:55.406 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,505,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@3f56e19e, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@765084f5, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@392a04e7)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:55.408 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 249: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:55.408 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,249,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@42dd751a, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@43b548fb, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@392a04e7)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:56.058 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 1028: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:56.059 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,1028,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@88a9a69, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@a0094ce, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@6f952d6c)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:56.450 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 1022: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:56.451 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,1022,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@65efaccd, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@e50c0b, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@6b587673)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:57.394 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 456: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:57.394 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 15: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:57.395 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,456,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@428ceee8, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@74ef4df1, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@4c98a6d5)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:57.395 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,15,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@696abc2b, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@2cdf1dda, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@1bcf67e8)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:57.406 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 84: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:57.406 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,84,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@10388093, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@2f191b15, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@6f952d6c)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:57.408 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 308: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:57.408 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,308,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@601aa76a, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@633ac533, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@6f952d6c)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:57.409 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 653: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:57.409 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 390: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:57.409 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 830: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:57.410 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,653,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@65d994cb, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@165fee11, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@6d3c232f)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:57.409 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 144: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:57.409 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 649: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:57.409 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 570: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:57.410 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,390,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@17850a66, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@2281311c, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@6d4a65c6)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:57.410 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,830,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@17cbc120, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@4aecc47b, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@6b587673)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:57.411 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,144,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@559c9877, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@3e959d21, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@f14e5bf)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:57.411 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 573: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:57.411 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,649,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@4be70b02, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@396259a7, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@392a04e7)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:57.411 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,570,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@9024460, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@68fe0d3f, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@7f02251)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:57.412 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 790: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:57.412 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 14: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:57.413 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,573,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@4e46ab6f, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@50708138, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@6d3c232f)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:57.414 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 969: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:57.414 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,790,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@178fd7e3, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@366ae79a, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@6d4a65c6)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:57.414 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,14,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@527d902f, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@7a505b3f, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@6b587673)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:57.416 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 454: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:57.415 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,969,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@103e9e34, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@7925ee58, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@392a04e7)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:57.416 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 462: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:57.416 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,454,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@9030d0b, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@2221c4e6, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@6d4a65c6)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:57.417 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,462,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@33db5794, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@1fb88288, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@6b587673)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:57.418 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 678: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:57.420 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,678,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@4b782f8e, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@2a4f574c, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@6d4a65c6)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:57.421 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 46: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:57.421 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,46,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@217a85b8, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@590bbb0b, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@6b587673)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:57.424 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 554: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:57.424 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 399: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:57.424 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 114: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:57.425 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,399,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@8d0b64b, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@5573a554, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@1bcf67e8)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:57.425 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,554,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@64fb07e4, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@75200a90, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@7f02251)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:57.425 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,114,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@148123e7, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@41e72a97, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@3a91d146)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:57.427 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 303: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:57.427 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 634: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:57.428 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 690: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:57.428 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,634,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@6e9a6110, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@76951e09, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@7f02251)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:57.428 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,303,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@6944d035, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@3d21210a, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@1bcf67e8)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:57.428 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,690,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@67e741aa, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@492176c4, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@3a91d146)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:41:57.431 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 695: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:41:57.442 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,695,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@103096e9, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@39b0228d, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@aa004a0)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:42:37.294 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 1186: i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+19:42:37.295 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO i.n.h.s.SslHandshakeTimeoutException: handshake timed out after 10000ms
+=========================
+Session:
+Session(My First Test Scenario,1186,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@b5c34be, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@7ab5830f, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@3a91d146)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:42:43.314 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 1438: j.n.c.ClosedChannelException
+19:42:43.314 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 1455: j.n.c.ClosedChannelException
+19:42:43.314 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 1443: j.i.IOException: Premature close
+19:42:43.314 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 1432: j.i.IOException: Premature close
+19:42:43.314 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 1334: j.i.IOException: Premature close
+19:42:43.314 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 1461: j.i.IOException: Premature close
+19:42:43.314 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 1440: j.i.IOException: Premature close
+19:42:43.314 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 1436: j.i.IOException: Premature close
+19:42:43.314 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 1460: j.i.IOException: Premature close
+19:42:43.314 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 1435: j.n.c.ClosedChannelException
+19:42:43.315 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.i.IOException: Premature close
+=========================
+Session:
+Session(My First Test Scenario,1460,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@288b832f, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@165fd736, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@6f952d6c)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:42:43.314 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.n.c.ClosedChannelException
+=========================
+Session:
+Session(My First Test Scenario,1455,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@2648c10e, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@3c0de7d4, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@1bcf67e8)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:42:43.314 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.n.c.ClosedChannelException
+=========================
+Session:
+Session(My First Test Scenario,1438,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@6f159ffe, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@4b7be0ad, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@6b587673)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:42:43.314 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.i.IOException: Premature close
+=========================
+Session:
+Session(My First Test Scenario,1443,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@5b6e6b96, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@2d958971, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@4784013e)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:42:43.314 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.i.IOException: Premature close
+=========================
+Session:
+Session(My First Test Scenario,1432,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@10f729fa, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@7017fdeb, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@4c98a6d5)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:42:43.314 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.i.IOException: Premature close
+=========================
+Session:
+Session(My First Test Scenario,1334,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@425ff773, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@69bd7b13, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@6d4a65c6)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:42:43.314 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.i.IOException: Premature close
+=========================
+Session:
+Session(My First Test Scenario,1461,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@1dd5e3ae, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@5fdb4c55, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@5965844d)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:42:43.315 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.i.IOException: Premature close
+=========================
+Session:
+Session(My First Test Scenario,1440,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@1dbec528, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@498e0659, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@f14e5bf)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:42:43.315 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.i.IOException: Premature close
+=========================
+Session:
+Session(My First Test Scenario,1436,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@1b5de03c, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@3cac37e9, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@4d8126f)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:42:43.315 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.n.c.ClosedChannelException
+=========================
+Session:
+Session(My First Test Scenario,1435,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@57997803, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@4040a38d, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@dffa30b)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:42:43.317 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 1459: j.i.IOException: Premature close
+19:42:43.318 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 1448: j.n.c.ClosedChannelException
+19:42:43.320 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.i.IOException: Premature close
+=========================
+Session:
+Session(My First Test Scenario,1459,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@2017e3b0, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@3d7c36d, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@4784013e)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:42:43.320 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.n.c.ClosedChannelException
+=========================
+Session:
+Session(My First Test Scenario,1448,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@1d7bedc2, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@e67524e, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@4c98a6d5)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:42:43.356 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 1462: j.n.c.ClosedChannelException
+19:42:43.357 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 1431: j.n.c.ClosedChannelException
+19:42:43.358 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - Request 'Get All Video Games' failed for user 1451: j.n.c.ClosedChannelException
+19:42:43.358 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.n.c.ClosedChannelException
+=========================
+Session:
+Session(My First Test Scenario,1431,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@7d4e2df0, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@38031932, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@aa004a0)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:42:43.358 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.n.c.ClosedChannelException
+=========================
+Session:
+Session(My First Test Scenario,1462,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@931b4bb, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@1e16e547, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@6d4a65c6)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
+19:42:43.358 [DEBUG] i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+Get All Video Games: KO j.n.c.ClosedChannelException
+=========================
+Session:
+Session(My First Test Scenario,1451,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@381156ea, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@4cd34b8a, gatling.http.cache.baseUrl -> https://videogamedb.uk/api),KO,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$574/0x00000008010983b8@4c927cc9,io.netty.channel.nio.NioEventLoop@dffa30b)
+=========================
+HTTP request:
+GET https://videogamedb.uk/api/videogame
+headers:
+	accept: application/json
+	host: videogamedb.uk
+=========================
+HTTP response:
+<<<<<<<<<<<<<<<<<<<<<<<<<
